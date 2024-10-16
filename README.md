@@ -1,2 +1,2 @@
-# RL-and-optimal-control
-RL-an introduction‘s notes and exercises，RL project 
+# 
+Finish exercises in book bandit algorithms and introduction to multi-armed bandits
